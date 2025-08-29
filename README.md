@@ -1,11 +1,11 @@
 <h1>Coding Interview Patterns</h1> 
 <p>Problems from the book Coding Interview Patterns By Alex Xu</p>
-A link to the repo of the bool https://github.com/ByteByteGoHq/coding-interview-patterns/tree/main
+A link to the repo of the book https://github.com/ByteByteGoHq/coding-interview-patterns/tree/main
 
 
 A link to the byte byte go site for solving and submitting the problems https://bytebytego.com/exercises/coding-patterns
 
-Each problem hava a solution in Java, Python and JavaScript
+Each problem has a solution in Java, Python and JavaScript
 
 <h2>Table of contents</h2>
 <h3>Two Pointers</h3>

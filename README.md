@@ -22,6 +22,9 @@ Each problem hava a solution in Java, Python and JavaScript
     <li>Pair Sum - Unsorted</li>
   </ol>
 <h3>Linked Lists</h3>
+<ol>
+  <li>Linked List Reversal</li>
+</ol>
 <h3>Fast And Slow Pointers</h3>
 <ol>
   <li>Linked List Loop</li>
